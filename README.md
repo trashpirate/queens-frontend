@@ -1,6 +1,6 @@
 # FLAMELING QUEENS FRONTEND
 
-_This code has been merged into [earn-labs/queens-dapp/frontend](https://github.com/earn-labs/queens-dapp/frontend)_
+_This code has been merged into [earn-labs/queens-dapp/frontend](https://github.com/earn-labs/queens-dapp/tree/main/frontend)_
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge)
 ![Node](https://img.shields.io/badge/node-v12.22.9-blue.svg?style=for-the-badge)
